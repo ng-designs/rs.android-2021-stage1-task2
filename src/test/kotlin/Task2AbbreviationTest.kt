@@ -2,6 +2,8 @@ import org.junit.Assert.assertEquals
 import org.junit.Test
 import subtask2.Abbreviation
 
+
+
 class Task2AbbreviationTest {
 
     private val converter = Abbreviation()
